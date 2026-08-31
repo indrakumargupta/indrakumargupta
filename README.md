@@ -1,11 +1,10 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Web Development and Data Analytics projects  
+🔭 I’m currently working on Web Development projects  
 🌱 I’m currently learning React, Python and Data Analytics  
 👯 I’m looking to collaborate on Web Development Projects  
 🤝 I’m interested in learning and building real-world projects  
-💬 Ask me about Python, React, FastAPI and Data Analytics  
-📫 How to reach me: GitHub & LinkedIn  
+💬 Ask me about Python, React, FastAPI and Data Analytics   
 ⚡ Fun fact: I love turning ideas into practical projects  
 
 # 💻 Tech Stack:
