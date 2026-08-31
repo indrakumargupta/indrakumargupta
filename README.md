@@ -32,5 +32,5 @@
 
 # ✍️ Random Dev Quote:
 
-"Code with curiosity, analyze with logic, and build with purpose."
+![Quote](./quote.png)
 
